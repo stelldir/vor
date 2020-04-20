@@ -1,8 +1,8 @@
-# stell dir vor
-das ist das neue zuhause von stell dir vor
-![image alt text](image_0.png)
-### Creating and Building a Processor Template
-`BaseProcessor`
-[SDC taxi data tutorial](https://streamsets.com/documentation/datacollector/latest/help/#Tutorial/Overview.html)
+### stell dir vor
+erschaffen wir eine utopie und verteilen wir sie an unseren starßenlaternen
+[selber drucken]()
+bitte versuche möglichst umweltfreundliche materialien zu verwenden
+[sticker vorschlagen]()
 
-[how to edit readme.md](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+![image alt text](image_0.png)
